@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.izu6cpizkh.jpg",
+      "AssetFile": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 00:56:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izu6cpizkh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM="
+        },
+        {
+          "Name": "label",
+          "Value": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.jpg",
+      "AssetFile": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 00:56:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM="
+        }
+      ]
+    }
+  ]
+}

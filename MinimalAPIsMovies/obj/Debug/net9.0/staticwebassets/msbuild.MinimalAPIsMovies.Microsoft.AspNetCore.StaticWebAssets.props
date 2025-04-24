@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\actors\b68ca174-b48c-4f05-abed-87a27abd720b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MinimalAPIsMovies</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MinimalAPIsMovies</BasePath>
+      <RelativePath>actors/b68ca174-b48c-4f05-abed-87a27abd720b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>izu6cpizkh</Fingerprint>
+      <Integrity>XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\actors\b68ca174-b48c-4f05-abed-87a27abd720b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

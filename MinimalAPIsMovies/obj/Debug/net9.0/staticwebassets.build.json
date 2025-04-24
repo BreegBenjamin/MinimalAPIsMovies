@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "OBOugjDfPKos7vkFq7RRxyQalFtBP4pqLfm53FnDKxs=",
+  "Source": "MinimalAPIsMovies",
+  "BasePath": "_content/MinimalAPIsMovies",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinimalAPIsMovies\\wwwroot",
+      "Source": "MinimalAPIsMovies",
+      "ContentRoot": "C:\\Develop\\Net_Azure\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\",
+      "BasePath": "_content/MinimalAPIsMovies",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Develop\\Net_Azure\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\actors\\b68ca174-b48c-4f05-abed-87a27abd720b.jpg",
+      "SourceId": "MinimalAPIsMovies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Develop\\Net_Azure\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\",
+      "BasePath": "_content/MinimalAPIsMovies",
+      "RelativePath": "actors/b68ca174-b48c-4f05-abed-87a27abd720b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "izu6cpizkh",
+      "Integrity": "XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actors\\b68ca174-b48c-4f05-abed-87a27abd720b.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.izu6cpizkh.jpg",
+      "AssetFile": "C:\\Develop\\Net_Azure\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\actors\\b68ca174-b48c-4f05-abed-87a27abd720b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 00:56:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "izu6cpizkh"
+        },
+        {
+          "Name": "label",
+          "Value": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM="
+        }
+      ]
+    },
+    {
+      "Route": "actors/b68ca174-b48c-4f05-abed-87a27abd720b.jpg",
+      "AssetFile": "C:\\Develop\\Net_Azure\\MinimalAPIsMovies\\MinimalAPIsMovies\\wwwroot\\actors\\b68ca174-b48c-4f05-abed-87a27abd720b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 00:56:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlIMU/0+BzRsOEmjj2sWZ2NixcC9g8398eE7CaHNkOM="
+        }
+      ]
+    }
+  ]
+}
